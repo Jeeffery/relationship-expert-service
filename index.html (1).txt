@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Jeffery - Relationship Expert</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+line-height: 1.6;
+margin: 0;
+padding: 0;
+background-color: #f4f4f4;
+color: #333;
+}
+header {
+background: #333;
+color: #fff;
+padding: 10px 0;
+text-align: center;
+}
+.container {
+padding: 20px;
+}
+h1, h2 {
+color: #333;
+}
+.contact-info {
+background: #ddd;
+padding: 10px;
+margin-top: 20px;
+border-radius: 5px;
+}
+footer {
+text-align: center;
+padding: 10px;
+background: #333;
+color: #fff;
+position: fixed;
+width: 100%;
+bottom: 0;
+}
+</style>
+</head>
+<body>
+<header>
+<h1>Jeffery - Relationship Expert</h1>
+</header>
+<div class="container">
+<section>
+<h2>About Me</h2>
+<p>Hi, I'm Jeffery, an expert in fixing relationship issues, addiction, and marriage. I specialize in helping people change their cheating partners if they truly love them. With my guidance, you can rebuild trust and create a healthy, loving relationship.</p>
+</section>
+<section>
+<h2>Ways to Change a Cheating Partner</h2>
+<p>Here are some strategies to help change a cheating partner if you truly love them:</p>
+<ul>
+<li><strong>Open Communication:</strong> Honest and open communication is crucial. Discuss the issues without blame and express your feelings.</li>
+<li><strong>Seek Professional Help:</strong> Counseling can provide a neutral space to address the root causes of infidelity and work towards solutions.</li>
+<li><strong>Rebuild Trust:</strong> Trust is the foundation of any relationship. Rebuilding it takes time and consistent effort from both partners.</li>
+<li><strong>Set Boundaries:</strong> Clearly define what is acceptable and what isn't in your relationship. Ensure both partners agree and adhere to these boundaries.</li>
+<li><strong>Forgiveness:</strong> Forgiveness is essential for moving forward. It doesn't mean forgetting, but rather letting go of the resentment.</li>
+<li><strong>Commit to Change:</strong> Both partners must commit to making positive changes and working on the relationship continuously.</li>
+</ul>
+</section>
+<section class="contact-info">
+<h2>Contact Me</h2>
+<p>If you need help with any relationship issues, feel free to reach out to me:</p>
+<p>Email: <a href="mailto:odurojeffery742@gmail.com">odurojeffery742@gmail.com</a></p>
+<p>WhatsApp: <a href="https://wa.me/233595598603">+233 595598603</a></p>
+</section>
+</div>
+<footer>
+<p>&copy; 2024 Jeffery - Relationship Expert. All rights reserved.</p>
+</footer>
+</body>
+</html>
